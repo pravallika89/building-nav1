@@ -59,11 +59,13 @@ body {
     }
  
   .nav-list{
+      float:right;
     list-style-type: none;
  }
   li{
   color:blue;
   padding:14px 16px;
+  float:left;
  }
  
 
