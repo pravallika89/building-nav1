@@ -101,3 +101,10 @@ body {
     
     text-decoration: none;
  }
+ /* maps */
+
+ .map{
+    width: 600;
+    height:450;
+    text-align: center;
+ }
