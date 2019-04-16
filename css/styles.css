@@ -59,15 +59,26 @@ body {
     }
  
   .nav-list{
+      float:right;
     list-style-type: none;
-    float:right;
-
  }
   li{
   color:blue;
   padding:14px 16px;
   float:left;
  }
+ li:hover{
+    font-size:30px;
+    padding:5px 16px;
+ }
+ 
+ .logo:hover{
+    height:66px;
+ }
+ 
+.main-nav:hover{
+        height:85px;
+    }
  
 /* end nav styles */
 /* Content styles */
