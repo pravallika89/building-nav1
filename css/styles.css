@@ -77,7 +77,8 @@ body {
 }
 
  .footer{
-background-color: brown;
+   background-color: brown;
+   height:50px;
  }
  .social-media{
      height:50px;
