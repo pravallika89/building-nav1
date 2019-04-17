@@ -141,3 +141,19 @@ body {
 .button-small{
    width:150px;
 }
+span{
+   background-color: yellow;
+}
+
+.family > span >span {
+   background-color: orange;
+}
+
+ul.socialmedia > li{
+   padding: 20px 24px;
+
+}
+
+.second-span ~ .first-span{
+   color:red;
+}
