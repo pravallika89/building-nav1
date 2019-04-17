@@ -113,3 +113,35 @@ body {
  .Center{
     text-align: center;
  }
+ .button{
+   padding: 10px;
+   font-size: 24 px;
+   border-radius:10px;
+ }
+ .button-success{
+    border: 1px solid;
+    background:green;
+    width:150px;
+   }
+.button-default{
+   background:white;
+   color:black;
+
+}
+
+ .button-danger{
+    
+    
+      width:250px;
+      
+      background:red;
+      color:white;
+      border:none;
+
+ }
+.button-large{
+   width:250px;
+}
+.button-small{
+   width:150px;
+}
