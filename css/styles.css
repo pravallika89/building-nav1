@@ -130,15 +130,11 @@ body {
 }
 
  .button-danger{
-    
-    
-      width:250px;
-      
-      background:red;
-      color:white;
-      border:none;
-
- }
+   width:250px;
+   background:red;
+   color:white;
+   border:none;
+}
 .button-large{
    width:250px;
 }
