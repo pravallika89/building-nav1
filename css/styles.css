@@ -142,6 +142,24 @@ body {
    width:150px;
 }
 
+span{
+   background-color: yellow;
+}
+
+.family > span >span {
+   background-color: orange;
+}
+
+ul.socialmedia > li{
+   padding: 20px 24px;
+
+}
+
+.second-span ~ .first-span{
+   color:red;
+}
+=======
+
 /* media-query-All devices with screen width <=768px */
 @media(max-width:768px){
    .button{
@@ -165,4 +183,5 @@ body {
       font-size:22px;
    }
 }
+
 
